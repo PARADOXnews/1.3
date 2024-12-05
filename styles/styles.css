@@ -24,3 +24,27 @@
 #blackholetext{
    color:#6D81B4;
 }
+
+#blackholediv1{
+   width:1007px;
+   background-color:#FFCEBE;
+   border:solid 2px;
+   border-top-color:#000000;
+   border-left-color:#000000;
+   border-right-color:#F44E50;
+   border-bottom-color:#F44E50;
+   text-align:center;
+}
+
+#blackholetext1{
+   
+   color:#F44E50;
+}
+
+#blackholetext2{
+   
+   color:#8B2B2C;
+}
+
+
+
