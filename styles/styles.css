@@ -1,0 +1,26 @@
+* {
+   font-family: lato
+}
+
+#bang {
+   text-align:center
+}
+
+#bangtext {
+   color:#FF8000;
+   text-align:center;
+   margin:0 auto;
+   width:1100px;
+}
+
+#blackholediv {
+   width:696px;
+}
+
+#blackhole {
+   color:#D9AE00;
+}
+
+#blackholetext{
+   color:#6D81B4;
+}
