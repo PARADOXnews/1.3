@@ -37,14 +37,47 @@
 }
 
 #blackholetext1{
-   
    color:#F44E50;
 }
 
 #blackholetext2{
-   
    color:#8B2B2C;
 }
 
+#stringdiv{
+   width:696px;
+
+}
+
+#stringh1{
+   color:#4716E4;
+   text-align:right;
+}
+
+#stringp1{
+   background-color:#FFC1E3;
+   border:solid #FF5DA3 3px;
+   color:#616161;
+   text-align:right;
+}
+
+#theory1,#theory2,#theory3 {
+   color:#C27512;
+   margin-bottom:10px
+}
+
+#theorydot1,#theorydot2,#theorydot3 {
+   display:inline-block;
+   width:15px;
+   height:15px;
+   background-color:black;
+   border-radius:100%
+}
+
+#text1,#text3,#text4,#text6,#text7,#text9 {margin:0 0 0 15px}
+
+#text2,#text5,#text8 {margin:0}
+
+{margin:0 0 0 15px}
 
 
